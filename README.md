@@ -13,7 +13,7 @@
 
 
 
-## Technologies Used
+## Technologies Used   
 
 <a href="https://reactjs.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/react/react-original.svg" height="50px" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
