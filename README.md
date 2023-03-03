@@ -26,7 +26,7 @@
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain.svg" height="50px" /></a>
 
 
-## Description
+## Description   
 
 The application fetches data from a static dataset, and generates a set of card elements using props, as well as conditional rendering. Each card element contains a landmark with various data about it.
 
